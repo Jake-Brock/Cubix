@@ -477,7 +477,7 @@ if isfile("Cubix_key.lua") and verifyKey(readfile("Cubix_key.lua")) then
         TextLabel.Text = "Status: Valid Key!"
         task.wait(1)
         KeyGui:Destroy()
-        writefile("Cubix.lua", inputKey)
+        writefile("Cubix_key.lua", inputKey)
         loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV199/Cubix/refs/heads/main/Cubix_Ui.lua"))()
     else
         TextLabel.Text = "Status: Invalid Key!"
