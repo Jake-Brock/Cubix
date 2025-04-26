@@ -311,7 +311,7 @@ else
   Title.Size = UDim2.new(0, 123, 0, 26)
   Title.Font = Enum.Font.FredokaOne
   Title.FontFace.Weight = Enum.FontWeight.Bold
-  Title.Text = "Frostware"
+  Title.Text = "Cubix"
   Title.TextColor3 = Color3.fromRGB(255, 255, 255)
   Title.TextSize = 29.000
 
@@ -334,7 +334,7 @@ else
   discord.Size = UDim2.new(0, 86, 0, 22)
   discord.Font = Enum.Font.FredokaOne
   discord.FontFace.Weight = Enum.FontWeight.Bold
-  discord.Text = ".gg/yMQmWweP4n"
+  discord.Text = ".gg/Cubix"
   discord.TextColor3 = Color3.fromRGB(255, 255, 255)
   discord.TextSize = 14.000
 
@@ -445,7 +445,7 @@ else
   discord_2.Size = UDim2.new(0, 86, 0, 22)
   discord_2.Font = Enum.Font.FredokaOne
   discord_2.FontFace.Weight = Enum.FontWeight.Bold
-  discord_2.Text = ".gg/yMQmWweP4n"
+  discord_2.Text = ".gg/Cubix"
   discord_2.TextColor3 = Color3.fromRGB(255, 255, 255)
   discord_2.TextSize = 14.000
 
