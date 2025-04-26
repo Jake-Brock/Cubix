@@ -1,8 +1,4 @@
-if _G.Cubix then
-	return
-end
-
-	_G.Cubix = true
+_G.Cubix = true
 	
 	local G2L = {};
 
