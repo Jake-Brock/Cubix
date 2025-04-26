@@ -1,7 +1,4 @@
-_G.Cubix = true
-	
-	local G2L = {};
-
+local G2L = {};
 	-- WOpZHbat.MainUI
 	G2L["1"] = Instance.new("ScreenGui", (gethui() or cloneref and cloneref(game:GetService("CoreGui")) or game:GetService("CoreGui"):Clone()));
 	G2L["1"]["IgnoreGuiInset"] = true;
